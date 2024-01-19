@@ -1,5 +1,7 @@
 # System Design Questions
 
+## Discuss Section
+
 - Ticketmaster
 - Design a chess game service to be added onto Facebook.
 - Design an online judge system similar to LeetCode.
@@ -26,7 +28,7 @@
 - Whatsapp
 - Youtube - Video Streaming Service
 
-# Educative.io
+## Educative.io
 
 - AutoComplete Service
 - Google Docs
@@ -44,7 +46,7 @@
 - Sequencer
 - Dropbox/Google Drive
 
-# Exponent
+## Exponent
 
 - Parking Garage
 - Vending Machine
