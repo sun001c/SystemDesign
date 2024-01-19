@@ -13,5 +13,4 @@
 - [Dev.to - Top Facebook System Design Interview Questions (Part 2)](https://dev.to/theinterviewsage/top-facebook-system-design-interview-questions-part-2-1844)
 - [Dev.to - Top Facebook System Design Interview Questions](https://dev.to/theinterviewsage/top-facebook-system-design-interview-questions-31np)
 - [Serhat Giydiren - System Design Interview Posts](https://serhatgiydiren.com/category/system-design-interview/)
-- [Cheat Sheet for Tech Interviews](https://naina0405.substack.com/p/cheat-sheet-for-tech-interviews-how-f0a)
-- [System Design Fight Club - Tagging Service](https://systemdesignfightclub.com/)
+- [System Design Fight Club](https://systemdesignfightclub.com/)
