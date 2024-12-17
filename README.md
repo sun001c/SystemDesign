@@ -1,4 +1,4 @@
-# SystemDesign
+# SystemDesign Resources
 
 - [System Design Interview Guide](https://www.tryexponent.com/blog/system-design-interview-guide)
 - [System Design GitHub Repository](https://github.com/karanpratapsingh/system-design)
